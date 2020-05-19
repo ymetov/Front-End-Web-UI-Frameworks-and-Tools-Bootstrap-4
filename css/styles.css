@@ -1,0 +1,90 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.row-content {
+    margin: 0px;
+    padding: 70px 0px 70px 0px;
+    border-bottom: 1px ridge;
+    
+}
+
+.row-table-top {
+    margin: 0px;
+    padding: 70px 0px 0px 0px;
+}
+
+.row-table-bot {
+    margin: 0px;
+    padding: 0px 0px 70px 0px;
+}
+
+.footer {
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #9575CD;
+    color: floralwhite;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+body {
+    padding: 0px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark {
+    background-color: #512da8;
+}
+.table-yellow {
+    background-color: #fdc22b;
+    color: floralwhite;
+    border-radius: 3px;
+}
+.table-row {
+    margin: 0px;
+    padding: 30px 0px 30px 0px;
+    margin: 0px auto;
+}
+.yellow-sc {
+    background-color: #fdc02f;
+    color: floralwhite;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding: 0px 14px 20px 14px;
+}
+.g{
+    background-color: greenyellow;
+}
+.btn-cust{
+    background-color: #fdc02f;
+    color: black;
+    padding: 10px 60px;
+}
+.card-header {
+    background-color: #fdc02f;
+    color: floralwhite;
+}
